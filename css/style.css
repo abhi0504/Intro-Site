@@ -1,0 +1,145 @@
+body {
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  color: #40514E;
+}
+
+hr{
+  margin: 50px auto 50px auto;
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+  margin: 80px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2 {
+  margin: 25px;
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top_container {
+  background-color: #dff6f0;
+  text-align: center;
+  padding: 80px 80px 0px 80px;
+}
+
+.middle_container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  margin: 25px auto 25px auto;
+  padding: 50px 0px 20px;
+}
+
+.upper_cloud {
+  position: absolute;
+  top: 10%;
+  left: 65%;
+}
+
+a{
+  color: #11999e;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover
+{
+  color: white;
+}
+
+.lower_cloud {
+  position: absolute;
+  left: 24%;
+  bottom: 50%;
+}
+
+.abcd {
+  border-radius: 100%;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.skill-row{
+  width: 50%;
+    margin: 50px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.pro_lang{
+  width: 130px;
+  height: 130px;
+  float: left;
+  margin-right: 30px;
+}
+
+.gen_skills{
+  width: 130px;
+  height: 130px;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile{
+  margin-top: 50px;
+}
+
+.Skills{
+  padding-top: 200px;
+}
+
+.contact-me{
+  margin-top: 50px;
+}
+
+.my-skills{
+
+}
+
+.myButton {
+	background-color:#11cdd4;
+	border-radius:18px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+ font-family: 'Montserrat', sans-serif;
+	font-size:20px;
+	padding: 10px 22px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#2a60bd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color: white;
+  font-size: 0.75em;
+  padding: 10px
+}
